@@ -69,15 +69,15 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에
 ## Team 7
 |항목|내용|
 |---|---|
-| 팀명칭 | 지구정복 연구젝트 |
+| 팀명칭 | 우주정복 연구젝트 |
 | 키워드 | AI, Multi-modal data, Missing data optimization |
 | 기술키워드 | Pytorch, Cuda, Dall-E |
 | 프로젝트명 |  [멀티모달  생성 AI] 멀티 모달리티 학습 환경에서 누락된 모달리티 데이터 생성 연구 |
-| 프로젝트 브랜드 | 미씽멀티버스 |
-| 사용할 소프트웨어 | https://huggingface.co/docs/transformers/ko/model_doc/clip<br>https://huggingface.co/docs/transformers/model_doc/flava |
-|만들고자 하는 것||
-|팀그라운드룰||
-|최종수정일||
+| 프로젝트 브랜드 | 미씽유니버스 |
+| 사용할 소프트웨어 | [CLIP](https://huggingface.co/docs/transformers/ko/model_doc/clip)<br> [FLAVA](https://huggingface.co/docs/transformers/model_doc/flava) |
+|만들고자 하는 것| 우주 탐사선을 통해 수집된 데이터 중 누락 모달리티 생성 연구|
+|팀그라운드룰| [GroundRule](https://github.com/Earth-Conquest-Research-Project/Multimodal-Missing-Data/blob/main/GroundRule.MD) |
+|최종수정일|2025.03.10|
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 8
