@@ -196,14 +196,14 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에
 |항목|내용|
 |---|---|
 | 팀명칭 | 그린데빌 |
-| 키워드 | (연구 트랙)보안, 개인정보, 모델 비교 |
-| 기술키워드 | 엣지AI, 연합 학습, 로컬/글로벌 모델 |
+| 키워드 | 보안, 개인정보, 모델 비교 |
+| 기술키워드 | Edge AI, Federated Learning, Localized/Global Model |
 | 프로젝트명 | 연합 학습(Federated Learning) 환경에서 이질적인 데이터 학습을 통해 로컬에 특화된 학습 모델과 일반적인 추론을 위한 학습 모델 비교 |
-| 프로젝트 브랜드 |  |
+| 프로젝트 브랜드 | 그린데빌 |
 | 사용할 소프트웨어 | NVIDIA FLARE https://nvflare.readthedocs.io/en/main/flare_overview.html<br>FLOWER https://flower.ai/docs/framework/tutorial-series-get-started-with-flower-pytorch.html<br>Substra https://github.com/Substra/substra/tree/main/docs |
-|만들고자 하는 것||
-|팀그라운드룰||
-|최종수정일||
+|만들고자 하는 것| Federated learning 환경에서 텍스트, 이미지, 음성 등과 같은 이질적인 데이터로 학습한 특화된 로컬 모델과 일반화된 기존 추론 모델을 구현 및 비교 분석하여 보다 좋은 성능을 가지도록 연구 |
+|팀그라운드룰| https://github.com/2025start-GreenDevil/2025-start/blob/main/Groundrule.md |
+|최종수정일| 2025.3.11 |
 
   [Return Top](#2025-Spring-전체-프로젝트-리스트)
 ## Team 18
